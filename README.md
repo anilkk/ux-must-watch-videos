@@ -1,4 +1,4 @@
-# ux-must-watch-videos
+# UX must watch videos
 Must watch great UX videos
 
 
@@ -9,3 +9,5 @@ Must watch great UX videos
 ##Methodolgies 
 1. [Agile Methodology](https://www.commoncraft.com/video/agile-methodology)
 
+##User Research
+1. [Startup Lab workshop: User Research, Quick 'n' Dirty](https://www.youtube.com/watch?v=WpzmOH0hrEM)
