@@ -6,7 +6,8 @@ Must watch great UX videos
 
 ##Storytelling 
 1. [The Hero's Journey](https://www.youtube.com/watch?v=RPKzF2tFgfs)
-2. [Cindy Chastain-Thinking Like a Storyteller](https://vimeo.com/9686849)
+2. [Designing Medium.com](https://www.udemy.com/uxalive-conference/#/lecture/3032898) by Dustin Senos, Lecture 5, UXAlive, Udemy
+3. [Cindy Chastain-Thinking Like a Storyteller](https://vimeo.com/9686849)
 
 ##Methodolgies 
 1. [Agile Methodology](https://www.commoncraft.com/video/agile-methodology)
